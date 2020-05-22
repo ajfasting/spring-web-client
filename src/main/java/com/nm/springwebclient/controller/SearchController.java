@@ -27,6 +27,4 @@ public class SearchController {
         return searchClient.listBreweries();
     }
     
-    // Add more endpoints for search and get brewery
-    
 }
